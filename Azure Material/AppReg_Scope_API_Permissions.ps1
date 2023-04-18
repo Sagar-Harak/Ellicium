@@ -1,4 +1,5 @@
 #############Setting up variables#########################
+
 $Location = "eastus2"
 $ResourceGroupName = "EL-AZ-TESTING"
 # $StorageAccountName = "eluse2funcsta"
